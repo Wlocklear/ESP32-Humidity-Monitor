@@ -2,7 +2,7 @@
 
 Reads temperature and relative humidity **inside** and **outside** a container with two AHT30s
 and shows them on a web dashboard. Monitor only — for heater control see
-[HumidityController](https://github.com/Wlocklear/ESP32-HumidityController).
+[HumidityController](https://github.com/Wlocklear/ESP32-Humidity-Controller).
 
 ## Hardware
 
